@@ -73,7 +73,7 @@
                                        TEST-RESULT.
            DISPLAY "TEST4".
            DISPLAY EXPECTED-RESULT4.
-           IF EXPECTED-RESULT5 = TEST-RESULT THEN
+           IF EXPECTED-RESULT4 = TEST-RESULT THEN
                DISPLAY "PASS"
               ELSE
                DISPLAY "FAIL".
